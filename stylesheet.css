@@ -1,0 +1,23 @@
+html {
+  overflow: scroll;
+   overflow-x: hidden;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color:#ffd0d7;
+  font-family:sans-sarif;
+  height: 10000px;
+  background-size:cover;
+}
+#column1 {
+  position:absolute;
+  top:0px;
+}
+#column2 {
+  position:absolute;
+  left:230px;
+  top:0px;
+}
